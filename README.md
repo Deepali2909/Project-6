@@ -1,1 +1,1 @@
-# Project-6
+This project involves building a Streamlit web app for predicting daily sales across Rossmann retail stores using machine learning. The app allows users to input store details or upload CSV files for bulk predictions. It loads the latest trained model, extracts date-related features, and provides instant, downloadable sales forecasts. This tool supports better planning for inventory and staffing.
